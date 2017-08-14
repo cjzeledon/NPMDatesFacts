@@ -1,0 +1,23 @@
+{
+  "name": "datefacts",
+  "version": "1.0.0",
+  "description": "First time creating a program using NPM",
+  "main": "dates.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node dates.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Not yet"
+  },
+  "keywords": [
+    "Dates"
+  ],
+  "author": "Claudia Zeledon",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "moment": "^2.18.1"
+  }
+}
